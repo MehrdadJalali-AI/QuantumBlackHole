@@ -1,8 +1,9 @@
 ## 🌌 Quantum Black Hole Strategy
 
 The **Quantum Black Hole** strategy is a two-phase approach designed to transform large-scale graph datasets into more insightful and efficient representations. It combines **graph refinement** with **generative enrichment** to create a high-quality, enriched dataset ideal for machine learning applications.
-
----
+<div align="center">
+<img src="QBH1.png" alt="Quantum Black Hole Strategy" width="500" height="500">
+</div>
 
 ### 🕳️ Black Hole Phase (Refinement)
 
